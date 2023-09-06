@@ -27,8 +27,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import jobit from "./jobit.jpg";
+import tripguide from "./tripguide.jpg";
 import django from "./tech/django.png";
 import python from "./tech/python.jpg";
 import firebase from "./tech/firebase.png";
