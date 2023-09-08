@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
     "\\src",
     "\\src\\assets",
     "\\src\\components",
     "\\src\\constants"
   ],
-  "SelectedNode": "\\src\\components\\Experience.jsx",
+  "SelectedNode": "\\src\\components\\Hero.jsx",
   "PreviewInSolutionExplorer": false
 }
