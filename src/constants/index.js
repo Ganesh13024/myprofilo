@@ -255,7 +255,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/weather-app",
+    source_code_link: "https://github.com/Ganesh13024/weatherprediction",
   },
 ];
 
